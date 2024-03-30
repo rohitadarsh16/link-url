@@ -9,10 +9,8 @@ import re
 app = FastAPI()
 
 origins = [
-    "https://facebookads.vercel.app",
-    "https://facebookads.vercel.app/",
-    "https://ui.sddoc.in",
-    "https://ui.sddoc.in/",
+   "https://dashboardtool.vercel.app",
+   "https://dashboardtool.vercel.app/",
     "http://localhost:3000",
     "http://localhost:3000/",
 ]
